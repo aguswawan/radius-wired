@@ -5,9 +5,9 @@ radius_realm: university.ac.id
 
 # user dan password local user di institusi anda
 radius_local_users:
-  - username: eduroamuser
-    password: passworduser
-  - username: agus
+  - username: user1
+    password: passw0rd
+  - username: wawan
     password: rahasia
 
 # Common Certificate Infomation
